@@ -17,50 +17,70 @@
 
 <p align="left"> 
   &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+   <a href="https://www.python.org">
+    <img alt="Python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="40" height="40">
   </a>
   &emsp;
-   <a href="https://www.r-project.org/" target="_blank">
-    <img alt="R" src="https://img.shields.io/badge/R%20-%2314354C.svg?logo=r&logoColor=white">
+   <a href="https://www.r-project.org/">
+    <img alt="R" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" width="40" height="40">
   </a>
   &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+     <img alt="JavaScript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40">
    </a>
   &emsp;
-  <a href="https://www.w3.org/html/" target="_blank"> 
-   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white">
+  <a href="https://www.w3.org/html/"> 
+   <img alt="HTML" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="40" height="40">
   </a> 
 </p>
 
 ### 👉 Databases & Cloud Hosting
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/">
+     <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
+    </a>
  </p>
 
  ### 👉 Software & Tools
  
 <p>
   &emsp;
-    <img alt="Colab" src="https://img.shields.io/badge/Colab-%23F4B400.svg?logo=google-colab&logoColor=white">
+  <a href="https://colab.research.google.com/">
+    <img alt="Colab" src="https://leaherb.com/wp-content/uploads/colab_favicon_256px.png" width="40" height="40">
+	</a>
   &emsp;
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white">
+  <a href="https://git-scm.com/">
+    <img alt="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black">
+  <a href="https://www.linux.org/">
+    <img alt="Linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-%230078D7.svg?logo=windows&logoColor=white">
+  <a href="https://www.microsoft.com/es-mx/windows">
+    <img alt="Windows" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
+  <a href="https://code.visualstudio.com/">
+    <img alt="Visual Studio Code" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white">
+  <a href="https://jupyter.org/">
+    <img alt="Jupyter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Latex" src="https://img.shields.io/badge/LaTex-FE7A16.svg?logo=latex&logoColor=white">
+  <a href="https://www.latex-project.org/">
+    <img alt="Latex" src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
+  <a href="https://rmarkdown.rstudio.com/">
+    <img alt="Markdown" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" width="40" height="40">
+  </a>
   &emsp;
-    <img alt="Matlab" src="https://img.shields.io/badge/Matlab-0076A8.svg?logo=mathworks&logoColor=white">
+  <a href="https://matlab.mathworks.com/">
+    <img alt="Matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40">
+  </a>
 
 </p>
 

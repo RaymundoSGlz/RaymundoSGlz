@@ -81,6 +81,10 @@
   <a href="https://matlab.mathworks.com/">
     <img alt="Matlab" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" width="40" height="40">
   </a>
+  &emsp;
+  <a href="https://www.rstudio.com/categories/rstudio-ide/">
+    <img alt="Rstudio" src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" width="40" height="40">
+  </a>
 
 </p>
 

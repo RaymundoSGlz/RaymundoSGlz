@@ -40,6 +40,10 @@
     <a href="https://www.mysql.com/">
      <img alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40">
     </a>
+  &emsp;
+    <a href="https://www.postgresql.org/">
+     <img alt="PostgreSQL" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40">
+    </a>
  </p>
 
  ### 👉 Software & Tools
